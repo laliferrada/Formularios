@@ -16,4 +16,8 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+    <string name="activity_login.xml">Formulario de login</string>
+    <string name="activity_main_datos_de_contactos.xml">Formulario de Contactos</string>
+    <string name="activity_main_forma_de_pago.xml">Formulario de pago</string>
+    <string name="activity_main_busqueda.xml">Formulario de busqueda</string>
 </resources>
