@@ -26,6 +26,7 @@
         android:ems="10"
         android:inputType="textEmailAddress"
         android:selectAllOnFocus="false"
+        android:text="Usuario"
         android:visibility="visible"
         tools:layout_editor_absoluteX="47dp"
         tools:layout_editor_absoluteY="266dp" />
@@ -36,6 +37,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPassword"
+        android:visibility="visible"
         tools:layout_editor_absoluteX="47dp"
         tools:layout_editor_absoluteY="384dp" />
 
