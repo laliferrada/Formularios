@@ -7,55 +7,55 @@
     tools:context=".MainActivity_busqueda">
 
     <SearchView
-        android:layout_width="343dp"
+        android:layout_width="296dp"
         android:layout_height="71dp"
-        tools:layout_editor_absoluteX="5dp"
+        tools:layout_editor_absoluteX="28dp"
         tools:layout_editor_absoluteY="16dp" />
 
     <EditText
         android:id="@+id/editText"
-        android:layout_width="wrap_content"
+        android:layout_width="232dp"
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="phone"
         android:text="Juan"
         android:visibility="visible"
-        tools:layout_editor_absoluteX="31dp"
+        tools:layout_editor_absoluteX="16dp"
         tools:layout_editor_absoluteY="149dp" />
 
     <EditText
         android:id="@+id/editText4"
-        android:layout_width="wrap_content"
+        android:layout_width="228dp"
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="phone"
         android:text="Maria"
         android:visibility="visible"
-        tools:layout_editor_absoluteX="31dp"
+        tools:layout_editor_absoluteX="18dp"
         tools:layout_editor_absoluteY="239dp" />
 
     <EditText
         android:id="@+id/editText5"
-        android:layout_width="wrap_content"
+        android:layout_width="226dp"
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="phone"
         android:text="Pedro"
         android:visibility="visible"
-        tools:layout_editor_absoluteX="31dp"
-        tools:layout_editor_absoluteY="351dp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="319dp"
         tools:text="Pedro" />
 
     <EditText
         android:id="@+id/editText6"
-        android:layout_width="wrap_content"
+        android:layout_width="224dp"
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="phone"
         android:text="Ana"
         android:visibility="visible"
-        tools:layout_editor_absoluteX="31dp"
-        tools:layout_editor_absoluteY="471dp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="403dp"
         tools:text="Ana" />
 
     <Button
